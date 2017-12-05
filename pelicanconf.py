@@ -30,5 +30,7 @@ SOCIAL = (('GitHub', 'https://www.github.com/erogers6264'),
 
 DEFAULT_PAGINATION = 10
 
+# THEME = 'simple'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
